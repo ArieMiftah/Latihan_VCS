@@ -23,7 +23,7 @@
 ![img 9](Screenshot/9.PNG)
 - Perintahkan untuk membuat repository local
 ![img 10](Screenshot/10.PNG)
-
+- Perintahkan untuk mengirim perubahan pada repository local menuju server repository
 ![img 11](Screenshot/11.PNG)
 
 

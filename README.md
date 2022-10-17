@@ -3,7 +3,9 @@
 
 ## STEP BY STEP Latihan VCS
 
+- Download [https://git-scm.com/downloads]
 ![img 1](Screenshot/1-.PNG)
+- Daftar [https://github.com/]
 ![img 2](Screenshot/2-.PNG)
 ![img 3](Screenshot/3.PNG)
 ![img 4](Screenshot/4.PNG)
